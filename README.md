@@ -1,4 +1,4 @@
-# 🏢 Stationery ERP Lite: Automated Inventory & POS Management System
+# Stationery ERP Lite: Automated Inventory & POS Management System
 
 [![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen.svg)](https://spring.io/projects/spring-boot)
@@ -9,7 +9,7 @@ An enterprise-grade, lightweight ERP web application engineered for retail stati
 
 ---
 
-## 👨‍🎓 Project & Academic Metadata
+## Project & Academic Metadata
 
 * **Institution:** Van Lang University — Faculty of Information Technology
 * **Course:** Application Programming Project
@@ -20,7 +20,7 @@ An enterprise-grade, lightweight ERP web application engineered for retail stati
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 ### 1. Point of Sale (POS) Checkout Engine
 * **Dynamic Product Grid:** Displays items with real-time SKUs, prices, and available stock levels.
@@ -51,7 +51,7 @@ An enterprise-grade, lightweight ERP web application engineered for retail stati
 
 ---
 
-## 🚀 Quick Start & Local Setup Guide
+## Quick Start & Local Setup Guide
 
 ### Prerequisites
 * **JDK 17** or higher
@@ -163,7 +163,7 @@ spring.jpa.show-sql=true
 
 ---
 
-## 📊 Testing & Quality Assurance
+## Testing & Quality Assurance
 
 * **Backend Testing:** Unit testing with **JUnit 5** for inventory logic and checkout validation.
 * **UAT & Integration:** Verified cross-origin REST communication between ReactJS (Port 3001) and Spring Boot (Port 8080).
@@ -171,6 +171,6 @@ spring.jpa.show-sql=true
 
 ---
 
-## 📜 License & Academic Integrity
+## License & Academic Integrity
 
 This project is developed solely for academic purposes as part of the **Application Programming Project** course at Van Lang University. Unauthorized commercial redistribution is prohibited.
