@@ -152,7 +152,7 @@ spring.jpa.show-sql=true
 
 ---
 
-## 📡 REST API Endpoint Documentation
+## REST API Endpoint Documentation
 
 | Method | Endpoint | Description | Sample Request Payload / Query |
 | :--- | :--- | :--- | :--- |
